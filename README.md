@@ -38,4 +38,6 @@ The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-nc
  
  **Wyoming (WY):** https://unicourt.github.io/cic-code-wy
  
-**North Dakota (ND):** https://unicourt.github.io/cic-code-nd
+ **North Dakota (ND):** https://unicourt.github.io/cic-code-nd
+ 
+ **Alaska (AK):** https://unicourt.github.io/cic-code-ak
